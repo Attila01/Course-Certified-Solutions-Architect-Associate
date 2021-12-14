@@ -6,10 +6,6 @@
       "Type": "AWS::S3::Bucket"
     }
     
-    "mbuapics": {
-      "Type": "AWS::S3::Bucket"
-    }
-
-  }
+   }
 
 }
